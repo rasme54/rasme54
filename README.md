@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋I'm Radosław Smektała - 
+### A Quality Assurance Specialist with test automation skills.
 
-<!--
-**rasme54/rasme54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## I 🔭 I’m currently working on:
 
-Here are some ideas to get you started:
+ **1. [automationexercise.com-Javascript-Cypress](https://github.com/rasme54/automationexercise.com-Javascript-Cypress)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ **Description:**
+ The project involved writing test cases in the form of scripts for automatic tests using the Cypress and JavaScript.
+ **Future of the project:**
+ 
+ - [ ] Implement Cucumber ->> in progress
+ - [ ] rewriting tests into TypeScript (separate branch)
+
+ **Technologies:**
+ <div align="left">
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" alt="Cypress" title="Cypress"/></code>
+</div>
+<br>
+
+## II🌱 I’m currently learning:
+
+ - **TypeScript**
+ - **Playwright**
+
+The goal is to create a new project that will automate tests using these technologies.
