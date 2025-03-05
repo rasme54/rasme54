@@ -22,7 +22,44 @@
 
 ## II🌱 I’m currently learning:
 
- - **TypeScript**
- - **Playwright**
+ - TypeScript
+ - Playwright
 
 The goal is to create a new project that will automate tests using these technologies.
+##  III :computer: My Tech Stack:
+<details>
+<summary><b>Project Management:</b></summary>
+<li>Jira</li>
+<li>Trello</li>
+</details>
+<br>
+<details>
+<summary><b>API testing:</b></summary>
+<li>Postman</li>
+<li>SoapUI</li>
+</details>
+<br>
+<details>
+<summary><b>Databases</b></summary>
+<li>MySQL</li>
+</details>
+<br>
+<details>
+<summary><b>Test Automation</b></summary>
+<li>JavaScript</li>
+<li>Cypress</li>
+</details>
+<br>
+<details>
+<summary><b>OS:</b></summary>
+<li>Windows</li>
+<li>Linux</li>
+</details>
+<br>
+<details>
+<summary><b>Other:</b></summary>
+<li>Browserstack</li>
+<li>Kibana</li>
+<li>NVDA</li>
+<li>Oracle VirtualBox</li>
+</details>
