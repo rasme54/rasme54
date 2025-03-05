@@ -3,7 +3,7 @@
 
  ## I 🔭 I’m currently working on:
 
- **1. [automationexercise.com-Javascript-Cypress](https://github.com/rasme54/automationexercise.com-Javascript-Cypress)**
+ **1. [automationexercise.com-JavaScript-Cypress](https://github.com/rasme54/automationexercise.com-JavaScript-Cypress)**
 
 
  **Description:**
