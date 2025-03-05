@@ -9,6 +9,7 @@
  **Description:**
  The project involved writing test cases in the form of scripts for automatic tests using the Cypress and JavaScript.
  <br>
+ <br>
  **Future of the project:**
  
  - [ ] Implement Cucumber ->> in progress
