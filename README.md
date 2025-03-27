@@ -12,7 +12,7 @@
  <br>
  **Future of the project:**
  
- - [ ] Implement Cucumber ->> in progress
+ - [ ] Implement Cucumber
  - [ ] rewriting tests into TypeScript (separate branch)
 
  **Technologies:**
